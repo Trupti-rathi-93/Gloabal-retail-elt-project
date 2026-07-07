@@ -1,2 +1,6 @@
 credentials/*
 logs/*
+config/airflow.cfg
+__pycache__/
+*.pyc
+.env
